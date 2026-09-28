@@ -229,10 +229,6 @@ Be cautious of messages creating artificial urgency.
 
 👨‍💻 Author
 
-Your Name
+Saksham Pandey
 
 If you found this project useful, consider giving the repository a ⭐ on GitHub!
-
-📄 License
-
-This project is available for educational and personal use. You can add a license such as the MIT License if you want others to freely use and modify the project.
